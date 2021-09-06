@@ -3,6 +3,6 @@ prefix=/home/zcl/test/devel
 Name: example
 Description: Description of example
 Version: 0.0.0
-Cflags: 
+Cflags: -I/home/zcl/test/devel/include
 Libs: -L${prefix}/lib 
 Requires: 
